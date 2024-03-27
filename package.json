@@ -1,0 +1,22 @@
+{
+  "name": "rv55-atm-code",
+  "version": "6.1.0",
+  "description": "ATM CODE WITH TS, JS OR NODE,JS",
+  "main": "atm.js",
+  "type": "module",
+  "bin": "atm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "RAHEEM VEER",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.16",
+    "rv55-atm-code": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
